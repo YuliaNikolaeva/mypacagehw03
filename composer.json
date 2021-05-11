@@ -1,0 +1,14 @@
+{
+    "name": "jull/mypacagehw03",
+    "description": "home work #3, part 2, php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Yilia Nikolaeva",
+            "email": "nikolyulia@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
